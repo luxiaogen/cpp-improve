@@ -3,7 +3,8 @@ cmake-build-debug/
 .vscode
 # Prerequisites
 *.d
-
+.idea
+.gitignore
 # Compiled Object files
 *.slo
 *.lo
